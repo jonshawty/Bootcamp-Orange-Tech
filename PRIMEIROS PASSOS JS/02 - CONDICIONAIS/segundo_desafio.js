@@ -23,13 +23,9 @@ if(combustivelUsado === "Etanol")
 {
     valorGasto = consumoPorKm * etanol
     console.log('O valor gasto em etanol é de:' + valorGasto);
-}else if{
+}else{
     valorGasto = consumoPorKm * gasolina
     console.log('O valor gasto em gasolina é de:' + valorGasto);
-}
-else
-{
-
 }
 
 
